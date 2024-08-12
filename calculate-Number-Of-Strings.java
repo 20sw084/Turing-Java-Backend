@@ -1,5 +1,7 @@
 import java.util.*;
 
+// Question: calculates the number of strings that can be formed using the distinct characters of a given string
+
 public class Main {
     public static void main(String[] args) {
         String str = "abc"; // example string
