@@ -1,5 +1,13 @@
 import java.util.*;
 
+/* 
+Question:
+Initialize an array arr with the same length as x.
+Iterate through each element in the arrays x and y.
+For each element x[i], insert it at index y[i] in the arr array. If the position is already occupied, shift the existing elements to the right.
+Return the resulting array.
+*/
+
 public class Solution {
     public int[] solution(int[] x, int[] y) {
         // Step 1: Create the result array with the same length as x
